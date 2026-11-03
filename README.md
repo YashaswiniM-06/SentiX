@@ -142,7 +142,7 @@ The web dashboard is built with a responsive tactical dark cyberpunk theme:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vamshichethan/SentiX.git
+git clone https://github.com/YashaswiniM-06/SentiX.git
 cd SentiX
 
 # 2. Create and activate a Python virtual environment
